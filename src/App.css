@@ -1,0 +1,19 @@
+.canvas {
+  height: 100vh;
+  width: 100vw;
+  background-color: gray;
+}
+
+.buttons {
+  display: flex;
+  gap: 4px;
+  padding: 8px;
+}
+
+.circle {
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  background-color: red;
+  border-radius: 100%;
+}
